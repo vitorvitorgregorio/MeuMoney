@@ -1,0 +1,23 @@
+.button {
+    padding: 10 1.6rem;
+    border-radius: 12px;
+    border-color: var(--primary-light);
+    color: var(--primary);
+}
+.button:hover {
+    background-color: var(--primary-light);
+    border-color: var(--primary-light);
+    color: var(--black);
+}
+.first-button {
+    background-color: var(--secondary);
+}
+a {
+    color: var(--secondary);
+    text-decoration: none;
+}
+a:hover{
+    color: var(--secondary-dark);
+    transition: all ease-in-out 0.1s;
+}
+
