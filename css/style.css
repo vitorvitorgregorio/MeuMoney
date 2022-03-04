@@ -91,6 +91,7 @@ footer .container a {
 }
 footer ul {
     list-style: none;
+    Margin-left: -20px;
 }
 footer ul li:hover {
     text-decoration: underline;
